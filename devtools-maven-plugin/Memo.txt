@@ -1,0 +1,9 @@
+> finish my plugin tool  OVER
+> unit test for multiple goals  SKIP
+> upgrade from javadoc to annotations  OVER
+> remove deprecated classes and methods  OVER
+> optimize parameters: inputScript, outputScript  OVER
+> can append jar paths to "MVN_DEP_JARS="  OVER
+> consolidate two parameters into one. if client gives the value, then modify the file; otherwise, use a resource file as template  OVER
+> if the output file path contains space character
+> another facility: replace tabs with spaces in the code
