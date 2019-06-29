@@ -1,7 +1,12 @@
 .classpath
 .project
 .settings/
+
+.idea/
+*.iml
+
 bin/
 output/
 target/
+
 .gradle/
